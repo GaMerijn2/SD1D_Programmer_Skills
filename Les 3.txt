@@ -1,0 +1,32 @@
+Operators:
+- Plus = +
+- Ster = * 
+- Minus = -
+- Slash = /
+- Modulo = % 
+
+Comparison:
+- Is gelijk aan  	==
+- Is niet gelijk aan 	!=
+- Kleiner dan 		<
+- Groter dan 		>
+- bolean = True/False
+
+Rekenen en Statements:
+- 1+1=2			Komt een (heel) getal uit	 (int)
+- 4*4=16		Komt een (heel) getal uit	 (int)
+- "as" + "df" = "asdf"	Komt een string uit
+- 5/3=1.66667		komt een getal uit		(float)
+
+>>> "a" == 1
+False
+>>> 5/7 > 7/12
+True
+>>> 12/3 < 7*0.9
+True
+>>> "0" != 0
+True
+>>> "0" != str(0)
+False
+
+if
